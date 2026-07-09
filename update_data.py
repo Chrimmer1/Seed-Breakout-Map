@@ -45,6 +45,7 @@ FOCUS THIS BATCH ON: {focus}.
 Return ONLY JSON, no markdown:
 {{"companies":[{{"name":"","group":"one from the list","what":"under 8 words","total_raised":"$1.2B","total_m":1200,"valuation":"$3B or n/a","unicorn":true,"seed_backers":["Fund A"],"seed_year":2022,"breakout_year":2026,"source":"publication + year"}}]}}
 Give up to 7 companies, most notable first. Keep every string short.
+Do a few quick web searches (no more than 4), then STOP searching and write the answer.
 Output ONLY the JSON object. No markdown, no code fences, no text before or after it."""
 
 
@@ -85,12 +86,12 @@ def ask_claude(focus, retries=3):
     model = os.environ.get("RADAR_MODEL", "claude-sonnet-5")
     payload = {
         "model": model,
-        "max_tokens": 2000,
+        "max_tokens": 8000,
         "messages": [{"role": "user", "content": prompt(focus)}],
     }
     # Web search on by default; set RADAR_WEB_SEARCH=0 to disable if the account lacks it.
     if os.environ.get("RADAR_WEB_SEARCH", "1") != "0":
-        payload["tools"] = [{"type": "web_search_20250305", "name": "web_search"}]
+        payload["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 4}]
 
     last = None
     for i in range(retries):
