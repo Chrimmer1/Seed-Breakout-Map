@@ -44,8 +44,8 @@ For each, also give its early/seed backers (1-3 names, the investors who got in 
 FOCUS THIS BATCH ON: {focus}.
 Return ONLY JSON, no markdown:
 {{"companies":[{{"name":"","group":"one from the list","what":"under 8 words","total_raised":"$1.2B","total_m":1200,"valuation":"$3B or n/a","unicorn":true,"seed_backers":["Fund A"],"seed_year":2022,"breakout_year":2026,"source":"publication + year"}}]}}
-Give up to 7 companies, most notable first. Keep every string short.
-Do a few quick web searches (no more than 4), then STOP searching and write the answer.
+Give up to 5 companies, most notable first. Keep every string short.
+Answer from your own knowledge of the AI venture market. Do not search.
 Output ONLY the JSON object. No markdown, no code fences, no text before or after it."""
 
 
@@ -89,8 +89,10 @@ def ask_claude(focus, retries=3):
         "max_tokens": 8000,
         "messages": [{"role": "user", "content": prompt(focus)}],
     }
-    # Web search on by default; set RADAR_WEB_SEARCH=0 to disable if the account lacks it.
-    if os.environ.get("RADAR_WEB_SEARCH", "1") != "0":
+    # Web search is OFF by default (it can exhaust the token budget before the
+    # model writes its answer). Set RADAR_WEB_SEARCH=1 only if you wire it through
+    # the workflow env and know the account supports it.
+    if os.environ.get("RADAR_WEB_SEARCH", "0") == "1":
         payload["tools"] = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 4}]
 
     last = None
