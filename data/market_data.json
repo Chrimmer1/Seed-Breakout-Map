@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T14:44:27.297141+00:00",
+  "generated_at": "2026-07-12T14:50:23.537445+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -34,100 +34,103 @@
       "glasswing": true
     },
     {
-      "name": "Lio (askLio)",
-      "group": "AI Agents for Business Operations",
-      "what": "AI agents automate enterprise procurement workflows",
-      "total_raised": "$33M",
-      "total_m": 33,
+      "name": "Anterior",
+      "group": "Clinical & Healthcare Workflow Automation",
+      "what": "AI clinical co-pilot for payer prior authorization",
+      "total_raised": "$64M",
+      "total_m": 64,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Y Combinator",
-        "Pioneer Fund"
+        "Sequoia Capital",
+        "Neo"
       ],
       "seed_year": 2023,
-      "breakout_year": 2026,
+      "breakout_year": 2024,
       "glasswing": false,
-      "source": "TechCrunch/PRNewswire 2026"
+      "source": "TechCrunch 2024; MedCity News 2026"
     },
     {
-      "name": "Fazeshift",
-      "group": "AI Agents for Business Operations",
-      "what": "AI agents automate accounts receivable collections",
-      "total_raised": "$22M",
-      "total_m": 22,
+      "name": "Enzo Health",
+      "group": "Clinical & Healthcare Workflow Automation",
+      "what": "AI platform automating home health care coordination",
+      "total_raised": "$26M",
+      "total_m": 26,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Y Combinator",
-        "Gradient Ventures"
+        "Gradient",
+        "Tandem Ventures",
+        "Rigby Watts"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Home Health Care News, May 2026"
+    },
+    {
+      "name": "Queue",
+      "group": "Clinical & Healthcare Workflow Automation",
+      "what": "Autonomous robotic pharmacy for prescriptions",
+      "total_raised": "$12.6M",
+      "total_m": 12.6,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "AlleyCorp"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "The AI Insider, June 2026"
+    },
+    {
+      "name": "Exaforce",
+      "group": "AI Security Operations (SOC & Threat Response)",
+      "what": "Agentic SOC platform with security knowledge graph",
+      "total_raised": "$263M",
+      "total_m": 263,
+      "valuation": "$725M",
+      "unicorn": false,
+      "seed_backers": [
+        "Khosla Ventures",
+        "Mayfield",
+        "Thomvest Ventures"
       ],
       "seed_year": 2023,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Crunchbase News 2026"
-    },
-    {
-      "name": "Coverbase",
-      "group": "AI Agents for Business Operations",
-      "what": "AI agents automate vendor procurement risk",
-      "total_raised": "$20M",
-      "total_m": 20,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Fika Ventures",
-        "Pear VC"
-      ],
-      "seed_year": 2024,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Crunchbase News 2025"
+      "source": "SiliconANGLE, Crunchbase News 2025-2026"
     },
     {
-      "name": "Greptile",
-      "group": "AI Software Development Agents",
-      "what": "AI code review agent for pull requests",
-      "total_raised": "$29M",
-      "total_m": 29,
-      "valuation": "n/a",
+      "name": "7AI",
+      "group": "AI Security Operations (SOC & Threat Response)",
+      "what": "Autonomous AI agents for security investigations",
+      "total_raised": "$166M",
+      "total_m": 166,
+      "valuation": "$700M",
       "unicorn": false,
       "seed_backers": [
-        "Initialized Capital",
-        "Y Combinator"
+        "Greylock",
+        "CRV",
+        "Spark Capital"
       ],
       "seed_year": 2024,
-      "breakout_year": 2025,
+      "breakout_year": 2024,
       "glasswing": false,
-      "source": "SiliconANGLE 2025"
-    },
-    {
-      "name": "All Hands AI (OpenHands)",
-      "group": "AI Software Development Agents",
-      "what": "Open-source autonomous coding & debugging agent",
-      "total_raised": "$23.8M",
-      "total_m": 23.8,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Menlo Ventures",
-        "Pillar VC",
-        "Betaworks"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "TechCrunch 2024; Tracxn 2025"
+      "source": "7AI blog, Calcalistech 2025"
     }
   ],
   "deltas": {
-    "since": "2026-07-10T18:11:08.755875+00:00",
+    "since": "2026-07-11T14:44:27.297141+00:00",
     "companies": 0,
     "unicorns": 0,
     "new_names": [
-      "Coverbase",
-      "Greptile",
-      "All Hands AI (OpenHands)"
+      "Anterior",
+      "Enzo Health",
+      "Queue",
+      "Exaforce",
+      "7AI"
     ]
   }
 }
