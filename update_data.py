@@ -111,7 +111,7 @@ def ask_claude(group, focus, examples, retries=3):
     model = os.environ.get("RADAR_MODEL", "claude-sonnet-5")
     payload = {
         "model": model,
-        "max_tokens": 8000,
+        "max_tokens": 16000,
         "messages": [{"role": "user", "content": prompt(group, focus, examples)}],
     }
     if os.environ.get("RADAR_WEB_SEARCH", "1") == "1":
