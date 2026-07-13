@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:53:31.253019+00:00",
+  "generated_at": "2026-07-13T14:04:41.240867+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -66,27 +66,9 @@
       "glasswing": true
     },
     {
-      "name": "Amperos Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating insurance claim denials",
-      "total_raised": "$21M",
-      "total_m": 21,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Uncork Capital",
-        "Neo",
-        "Nebular"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
-    },
-    {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health clinical operations",
+      "what": "AI platform automating home health workflows",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,65 +81,48 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, May 2026"
+      "source": "PRNewswire/Axios, May 2026"
     },
     {
-      "name": "Keebler Health",
+      "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "LLM-native AI risk-adjustment platform for VBC",
-      "total_raised": "$23M",
-      "total_m": 23,
+      "what": "AI biller automating insurance denial recovery",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Freestyle Capital",
-        "New Stack Ventures",
-        "MBX Capital"
+        "Uncork Capital",
+        "Neo",
+        "Nebular"
       ],
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
-    },
-    {
-      "name": "Translucent",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "Agentic AI financial analyst for hospitals",
-      "total_raised": "$34M",
-      "total_m": 34,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "NEA",
-        "Virtue",
-        "FPV Ventures"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fortune, Mar 2026"
+      "source": "Fierce Healthcare, April 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that simulate cyberattacks",
+      "what": "AI agents block autonomous cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Lightspeed"
+        "Lightspeed Venture Partners",
+        "Cerca Partners"
       ],
-      "seed_year": 2026,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "TheSaaSNews 2026"
+      "source": "CTech/JPost, June 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and threat visibility platform",
+      "what": "Visibility and control over enterprise AI systems",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -169,28 +134,66 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek 2026"
+      "source": "Stiennon Substack, May 2026"
     },
     {
-      "name": "Ocean Security",
+      "name": "Aryon Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents stopping email phishing fraud",
+      "what": "Prevents cloud misconfigurations before deployment",
+      "total_raised": "$38M",
+      "total_m": 38,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Viola Ventures",
+        "Blumberg Capital",
+        "Shlomo Kramer"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Jerusalem Post/CTech, June 2026"
+    },
+    {
+      "name": "imper.ai",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Real-time deepfake and impersonation fraud prevention",
       "total_raised": "$28M",
       "total_m": 28,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Picture Capital"
+        "YL Ventures",
+        "Mayfield Fund",
+        "Hetz Ventures"
       ],
-      "seed_year": 2024,
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Wellows, March 2026"
+    },
+    {
+      "name": "Spectrum Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Automated real-time threat detection authoring",
+      "total_raised": "$19M",
+      "total_m": 19,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "TechOperators",
+        "WhiteRabbit Ventures",
+        "Skinos Ventures"
+      ],
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Calcalistech 2026"
+      "source": "Fintech.global, April 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "predictive AI data-security platform",
+      "what": "Predictive data security against leakage and insider threats",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -202,28 +205,30 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Stiennon Substack 2026"
+      "source": "Stiennon Substack, May 2026"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agents automate CNC machining programming",
+      "what": "Agentic AI for CNC/CAD-CAM manufacturing",
       "total_raised": "$27.3M",
       "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures"
+        "Grove Ventures",
+        "Meron Capital",
+        "Kinetica"
       ],
-      "seed_year": 2025,
+      "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire/SiliconANGLE, June 2026"
+      "source": "AIwire, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI generates HVAC quotes from blueprints",
+      "what": "AI quoting for HVAC/electrical/plumbing suppliers",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
@@ -236,17 +241,122 @@
       "breakout_year": 2026,
       "glasswing": false,
       "source": "Crunchbase News, March 2026"
+    },
+    {
+      "name": "Roadrunner",
+      "group": "Industrial & Operations AI",
+      "what": "AI-native quote-to-cash/operations infrastructure",
+      "total_raised": "$27M",
+      "total_m": 27,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Kleiner Perkins"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fortune, May 2026"
+    },
+    {
+      "name": "Anyware Robotics",
+      "group": "Industrial & Operations AI",
+      "what": "AI mobile robots for warehouse unloading",
+      "total_raised": "$17.7M",
+      "total_m": 17.7,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "GFT Ventures",
+        "Y Combinator",
+        "Alumni Ventures"
+      ],
+      "seed_year": 2023,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Tracxn / Robot Report, 2025-2026"
+    },
+    {
+      "name": "Chef Robotics",
+      "group": "Industrial & Operations AI",
+      "what": "AI-powered robotic food assembly for manufacturers",
+      "total_raised": "$50.9M",
+      "total_m": 50.9,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Schox VC",
+        "Kleiner Perkins",
+        "Bloomberg Beta"
+      ],
+      "seed_year": 2021,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "ZoomInfo funding profile, 2026"
+    },
+    {
+      "name": "Peregrine Technologies",
+      "group": "Data & Enterprise Intelligence AI",
+      "what": "AI data integration for public safety agencies",
+      "total_raised": "$470M",
+      "total_m": 470,
+      "valuation": "$6.8B",
+      "unicorn": true,
+      "seed_backers": [
+        "Friends & Family Capital",
+        "Craft Ventures",
+        "Goldcrest Capital"
+      ],
+      "seed_year": 2019,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "FinSMEs/PR Newswire 2026"
+    },
+    {
+      "name": "Taktile",
+      "group": "Data & Enterprise Intelligence AI",
+      "what": "AI decision platform for financial risk",
+      "total_raised": "$189M",
+      "total_m": 189,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Index Ventures",
+        "Y Combinator"
+      ],
+      "seed_year": 2021,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Taktile/Tracxn 2025-2026"
+    },
+    {
+      "name": "Quantifind",
+      "group": "Data & Enterprise Intelligence AI",
+      "what": "AI risk intelligence for financial crime detection",
+      "total_raised": "$126M",
+      "total_m": 126,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Comcast Ventures"
+      ],
+      "seed_year": 2011,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "FinSMEs/PitchBook 2026"
     }
   ],
   "deltas": {
-    "since": "2026-07-13T13:30:12.195955+00:00",
-    "companies": -1,
-    "unicorns": -1,
+    "since": "2026-07-13T13:53:31.253019+00:00",
+    "companies": 6,
+    "unicorns": 1,
     "new_names": [
-      "Keebler Health",
-      "Translucent",
-      "Ocean Security",
-      "Ray Security"
+      "Aryon Security",
+      "imper.ai",
+      "Spectrum Security",
+      "Roadrunner",
+      "Anyware Robotics",
+      "Chef Robotics"
     ]
   }
 }
