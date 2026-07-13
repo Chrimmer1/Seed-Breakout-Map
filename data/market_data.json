@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:30:12.195955+00:00",
+  "generated_at": "2026-07-13T13:53:31.253019+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for denial management/RCM",
-      "total_raised": "$20.2M",
-      "total_m": 20.2,
+      "what": "AI biller automating insurance claim denials",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -86,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health/post-acute ops",
+      "what": "AI platform for home health clinical operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -102,118 +102,114 @@
       "source": "PR Newswire, May 2026"
     },
     {
-      "name": "Anterior",
+      "name": "Keebler Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "Clinician-led AI for payer prior-auth workflows",
-      "total_raised": "$64M",
-      "total_m": 64,
+      "what": "LLM-native AI risk-adjustment platform for VBC",
+      "total_raised": "$23M",
+      "total_m": 23,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Sequoia Capital",
-        "Anamcara Capital",
-        "ODDBIRD VC"
+        "Freestyle Capital",
+        "New Stack Ventures",
+        "MBX Capital"
       ],
-      "seed_year": 2023,
-      "breakout_year": 2024,
+      "seed_year": 2025,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "MedCity News, Feb 2026"
+      "source": "Fierce Healthcare, Apr 2026"
     },
     {
-      "name": "Cohere Health",
+      "name": "Translucent",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI-powered prior authorization for health plans",
-      "total_raised": "$213M",
-      "total_m": 213,
-      "valuation": "$5.5B",
-      "unicorn": true,
+      "what": "Agentic AI financial analyst for hospitals",
+      "total_raised": "$34M",
+      "total_m": 34,
+      "valuation": "n/a",
+      "unicorn": false,
       "seed_backers": [
-        "Flare Capital Partners",
-        "Polaris Partners"
+        "NEA",
+        "Virtue",
+        "FPV Ventures"
       ],
-      "seed_year": 2019,
-      "breakout_year": 2020,
+      "seed_year": 2025,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, May 2025"
+      "source": "Fortune, Mar 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI-powered cybersecurity defense platform",
+      "what": "AI agents that simulate cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Lightspeed",
-        "Assaf Rappaport"
+        "Lightspeed"
       ],
-      "seed_year": 2025,
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "TheSaaSNews, June 2026"
+      "source": "TheSaaSNews 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance & runtime threat visibility platform",
+      "what": "AI governance and threat visibility platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund",
-        "George Kurtz"
+        "CrowdStrike Falcon Fund"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, March 2026"
+      "source": "SecurityWeek 2026"
     },
     {
-      "name": "imper.ai",
+      "name": "Ocean Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Real-time deepfake & CEO-fraud impersonation prevention",
+      "what": "AI agents stopping email phishing fraud",
       "total_raised": "$28M",
       "total_m": 28,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "YL Ventures",
-        "Mayfield Fund",
-        "Hetz Ventures"
+        "Picture Capital"
       ],
       "seed_year": 2024,
-      "breakout_year": 2025,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "Wellows tech startups 2026 report"
+      "source": "Calcalistech 2026"
     },
     {
-      "name": "Spectrum Security",
+      "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Automated real-time threat-detection authoring platform",
-      "total_raised": "$19M",
-      "total_m": 19,
+      "what": "predictive AI data-security platform",
+      "total_raised": "$11M",
+      "total_m": 11,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "TechOperators",
-        "WhiteRabbit Ventures",
-        "Skinos Ventures"
+        "Venture Guides",
+        "Ibex Investors"
       ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
+      "seed_year": 2025,
+      "breakout_year": 2025,
       "glasswing": false,
-      "source": "FinTech Global, April 2026"
+      "source": "Stiennon Substack 2026"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agent automates CNC machining programming",
+      "what": "AI agents automate CNC machining programming",
       "total_raised": "$27.3M",
-      "total_m": 27,
+      "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -222,53 +218,35 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, 2026"
+      "source": "PR Newswire/SiliconANGLE, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI quoting platform for HVAC suppliers",
+      "what": "AI generates HVAC quotes from blueprints",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Founder Collective",
-        "Villain Capital"
+        "Optimist Ventures"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News, 2026"
-    },
-    {
-      "name": "Roadrunner",
-      "group": "Industrial & Operations AI",
-      "what": "AI-native quote-to-cash revenue infrastructure",
-      "total_raised": "$27M",
-      "total_m": 27,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Kleiner Perkins"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fortune, 2026"
+      "source": "Crunchbase News, March 2026"
     }
   ],
   "deltas": {
-    "since": "2026-07-12T14:50:23.537445+00:00",
-    "companies": 8,
-    "unicorns": 1,
+    "since": "2026-07-13T13:30:12.195955+00:00",
+    "companies": -1,
+    "unicorns": -1,
     "new_names": [
-      "Allure Security",
-      "Basetwo AI",
-      "DTwo",
-      "Amperos Health",
-      "Cohere Health",
-      "A Security"
+      "Keebler Health",
+      "Translucent",
+      "Ocean Security",
+      "Ray Security"
     ]
   }
 }
