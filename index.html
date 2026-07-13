@@ -161,10 +161,13 @@ function renderDelta(){
 }
 
 function renderStats(){
-  const total=ALL.length, unis=ALL.filter(c=>c.unicorn).length, cap=ALL.reduce((s,c)=>s+(+c.total_m||0),0), groups=GROUPS.filter(g=>ALL.some(c=>c.group===g)).length;
+  const total=ALL.length, cap=ALL.reduce((s,c)=>s+(+c.total_m||0),0), groups=GROUPS.filter(g=>ALL.some(c=>c.group===g)).length;
+  const raises=ALL.map(c=>+c.total_m||0).filter(v=>v>0).sort((a,b)=>a-b);
+  let med=0;
+  if(raises.length){ const m=Math.floor(raises.length/2); med = raises.length%2 ? raises[m] : (raises[m-1]+raises[m])/2; }
   $('statbar').innerHTML=`
     <div class="stat"><div class="n">${total}</div><div class="l">Seed-origin breakouts</div></div>
-    <div class="stat"><div class="n">${unis}</div><div class="l">Now unicorns ★</div></div>
+    <div class="stat"><div class="n">${raises.length?fmtB(med):'—'}</div><div class="l">Median raise</div></div>
     <div class="stat"><div class="n">${fmtB(cap)}</div><div class="l">Total raised</div></div>
     <div class="stat"><div class="n">${groups}</div><div class="l">Categories</div></div>`;
 }
