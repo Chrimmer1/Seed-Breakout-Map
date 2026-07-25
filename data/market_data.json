@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:23:40.514211+00:00",
+  "generated_at": "2026-07-25T14:56:37.557913+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating insurance denial recovery",
-      "total_raised": "$20.2M",
-      "total_m": 20,
+      "what": "AI biller automates insurance denial recovery",
+      "total_raised": "$21.6M",
+      "total_m": 21.6,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, 2026"
+      "source": "Fierce Healthcare, Apr 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform automating home health operations",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,138 +99,160 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, 2026"
+      "source": "PR Newswire, May 2026"
     },
     {
-      "name": "Ascertain",
+      "name": "Tandem Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "Agentic AI case management for health systems",
-      "total_raised": "$17.4M",
-      "total_m": 17,
+      "what": "AI ambient scribe for clinical documentation",
+      "total_raised": "$59.5M",
+      "total_m": 59.5,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Aegis Ventures",
-        "Northwell Holdings"
+        "Northzone",
+        "OpenAI (angel)",
+        "DeepMind (angel)"
       ],
-      "seed_year": 2023,
+      "seed_year": 2024,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "PitchBook, 2026"
+      "source": "Sifted, Jul 2025"
     },
     {
-      "name": "Reality Defender",
+      "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI deepfake and fraud media detection",
-      "total_raised": "$52.4M",
-      "total_m": 52,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Y Combinator",
-        "DCVC",
-        "Partnership Fund for NYC"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2024,
-      "glasswing": false,
-      "source": "Tracxn/PRNewswire 2024"
-    },
-    {
-      "name": "Trustmi",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI payment fraud and social-engineering defense",
-      "total_raised": "$21M",
-      "total_m": 21,
+      "what": "AI agents defending against autonomous cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Zeev Ventures"
+        "Lightspeed Venture Partners"
       ],
-      "seed_year": 2021,
-      "breakout_year": 2023,
-      "glasswing": false,
-      "source": "TechCrunch 2023"
-    },
-    {
-      "name": "Resemble AI",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Real-time AI voice/video deepfake threat detection",
-      "total_raised": "$25M",
-      "total_m": 25,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Google AI Futures Fund",
-        "Okta Ventures",
-        "Taiwania Capital"
-      ],
-      "seed_year": 2018,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "AIBusiness Dec 2025"
-    },
-    {
-      "name": "Chargeflow",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI chargeback and dispute fraud automation",
-      "total_raised": "$49M",
-      "total_m": 49,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Undisclosed seed investors"
-      ],
-      "seed_year": 2021,
-      "breakout_year": 2023,
-      "glasswing": false,
-      "source": "Landbase 2026"
-    },
-    {
-      "name": "Limitless Labs",
-      "group": "Industrial & Operations AI",
-      "what": "AI agent automates CNC manufacturing programming",
-      "total_raised": "$20M+",
-      "total_m": 20,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Grove Ventures",
-        "Meron Capital"
-      ],
-      "seed_year": 2024,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Ctech/vcnewsdaily 2026"
+      "source": "The SaaS News, June 2026"
+    },
+    {
+      "name": "JetStream Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI governance & security platform for enterprises",
+      "total_raised": "$34M",
+      "total_m": 34,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Redpoint Ventures",
+        "CrowdStrike Falcon Fund",
+        "George Kurtz"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "SecurityWeek, March 2026"
+    },
+    {
+      "name": "Geordie AI",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Security & governance platform for AI agents",
+      "total_raised": "$36.5M",
+      "total_m": 36.5,
+      "valuation": "$180M",
+      "unicorn": false,
+      "seed_backers": [
+        "General Catalyst",
+        "Ten Eleven Ventures"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fortune, May 2026"
+    },
+    {
+      "name": "Ray Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Predictive AI data security & insider-threat platform",
+      "total_raised": "$11M",
+      "total_m": 11,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Venture Guides",
+        "10D",
+        "Adi Dangot Zukovsky"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Startup Intros, 2025"
+    },
+    {
+      "name": "Squint",
+      "group": "Industrial & Operations AI",
+      "what": "AI/AR manufacturing intelligence for factory floors",
+      "total_raised": "$59M",
+      "total_m": 59,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Sequoia Capital",
+        "Menlo Ventures"
+      ],
+      "seed_year": 2023,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Built In SF + PitchBook, 2025"
+    },
+    {
+      "name": "RoadRunner Recycling",
+      "group": "Industrial & Operations AI",
+      "what": "AI-driven commercial waste and recycling logistics",
+      "total_raised": "$130M",
+      "total_m": 130,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Adams Capital Management",
+        "FJ Labs"
+      ],
+      "seed_year": 2015,
+      "breakout_year": 2020,
+      "glasswing": false,
+      "source": "Waste360 + PR Newswire, 2020-2022"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI computer vision for HVAC quoting",
+      "what": "AI quoting/estimating for HVAC contractors",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Founder Collective",
-        "Zero Infinity Partners"
+        "Villain Capital",
+        "Optimist Ventures"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News/Businesswire 2026"
+      "source": "Crunchbase News + VentureBurn, 2026"
     }
   ],
   "deltas": {
-    "since": "2026-07-22T16:17:29.982574+00:00",
-    "companies": 0,
+    "since": "2026-07-23T16:23:40.514211+00:00",
+    "companies": 1,
     "unicorns": 0,
     "new_names": [
-      "Ascertain",
-      "Trustmi",
-      "Resemble AI",
-      "Chargeflow"
+      "Tandem Health",
+      "A Security",
+      "JetStream Security",
+      "Geordie AI",
+      "Ray Security",
+      "Squint"
     ]
   }
 }
