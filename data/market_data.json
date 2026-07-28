@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:26:28.626751+00:00",
+  "generated_at": "2026-07-28T16:59:50.556499+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI-native denial management, revenue recovery",
-      "total_raised": "$20.2M",
-      "total_m": 20.2,
+      "what": "AI biller automates denials, revenue cycle",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, 2026"
+      "source": "Fierce Healthcare, Apr 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health, post-acute care",
+      "what": "AI platform automates home health workflows",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,47 +99,64 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, 2026"
+      "source": "PR Newswire, May 2026"
     },
     {
-      "name": "Tandem Health",
+      "name": "Almanac Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI ambient scribe for clinical documentation",
-      "total_raised": "$59.5M",
-      "total_m": 59.5,
+      "what": "Evidence-based AI clinical decision support platform",
+      "total_raised": "$10M",
+      "total_m": 10,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Northzone",
-        "Amino Collective",
-        "OpenAI angel"
+        "F-Prime Capital",
+        "General Catalyst",
+        "Lightspeed Venture Partners"
       ],
-      "seed_year": 2024,
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fierce Healthcare, Apr 2026"
+    },
+    {
+      "name": "7AI",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Autonomous AI security operations & incident response",
+      "total_raised": "$166M",
+      "total_m": 166,
+      "valuation": "$700M",
+      "unicorn": false,
+      "seed_backers": [
+        "Lior Div (founder)"
+      ],
+      "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Sifted, 2025"
+      "source": "SoftwareStrategiesBlog, Apr 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents block autonomous cyberattacks",
+      "what": "AI agents defend against weaponized AI cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Lightspeed"
+        "Lightspeed",
+        "Cerca Partners"
       ],
       "seed_year": 2025,
-      "breakout_year": 2025,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "The SaaS News, 2026"
+      "source": "CTech/Calcalist, Jun 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance & threat visibility platform",
+      "what": "AI governance and security platform for enterprises",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -151,12 +168,47 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, March 2026"
+      "source": "SecurityWeek, Mar 2026"
+    },
+    {
+      "name": "Prelude",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI trust and identity/fraud verification platform",
+      "total_raised": "$27M",
+      "total_m": 27,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Singular",
+        "Seedcamp"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "EU-Startups, May 2026"
+    },
+    {
+      "name": "Beacon Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Agentic AI platform for detection & response",
+      "total_raised": "$13M",
+      "total_m": 13,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Notable Capital",
+        "Holly Ventures",
+        "AlphaDrive Ventures"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Pulse2, 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data breach prevention",
+      "what": "Predictive AI data breach & leak protection",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -165,15 +217,15 @@
         "Venture Guides",
         "Ibex Investors"
       ],
-      "seed_year": 2024,
+      "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Calcalist/FinSMEs, Sept 2025"
+      "source": "SecurityWeek, Sep 2025"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agents for CNC/CAD-CAM manufacturing",
+      "what": "AI agent automates CNC/CAD-CAM manufacturing programming",
       "total_raised": "$27.3M",
       "total_m": 27.3,
       "valuation": "n/a",
@@ -184,12 +236,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
+      "source": "SiliconANGLE, PR Newswire 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI estimating/operating system for HVAC suppliers",
+      "what": "AI quoting engine for HVAC/plumbing suppliers",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
@@ -201,105 +253,53 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News, March 2026"
+      "source": "Crunchbase News, VentureBurn 2026"
     },
     {
-      "name": "Peregrine Technologies",
+      "name": "WisdomAI",
       "group": "Data & Enterprise Intelligence AI",
-      "what": "AI data intelligence platform for public safety agencies",
-      "total_raised": "$470M",
-      "total_m": 470,
-      "valuation": "$6.8B",
-      "unicorn": true,
-      "seed_backers": [
-        "Y Combinator",
-        "Friends & Family Capital"
-      ],
-      "seed_year": 2019,
-      "breakout_year": 2024,
-      "glasswing": false,
-      "source": "Fortune, PRNewswire Jun 2026; Tracxn"
-    },
-    {
-      "name": "Quantifind",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI-native financial crime risk intelligence platform",
-      "total_raised": "$326M",
-      "total_m": 326,
+      "what": "AI analytics platform avoiding LLM hallucination",
+      "total_raised": "$73M",
+      "total_m": 73,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "In-Q-Tel",
-        "Comcast Ventures"
+        "Coatue"
       ],
-      "seed_year": 2011,
-      "breakout_year": 2014,
+      "seed_year": 2025,
+      "breakout_year": 2025,
       "glasswing": false,
-      "source": "FinSMEs Jun 2026; PitchBook"
+      "source": "BitcoinWorld/MEXC 2026"
     },
     {
-      "name": "Taktile",
+      "name": "Thira",
       "group": "Data & Enterprise Intelligence AI",
-      "what": "AI decision-automation platform for risk teams",
-      "total_raised": "$79M",
-      "total_m": 79,
+      "what": "enterprise AI decision/data intelligence platform",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Y Combinator",
-        "Index Ventures"
-      ],
-      "seed_year": 2020,
-      "breakout_year": 2022,
-      "glasswing": false,
-      "source": "TechCrunch, Feb 2025"
-    },
-    {
-      "name": "Definity",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Agentic data pipeline & lakehouse intelligence platform",
-      "total_raised": "$16.5M",
-      "total_m": 16.5,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "StageOne Ventures",
-        "Hyde Park Venture Partners"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "PRNewswire/VentureBeat, Apr 2026"
-    },
-    {
-      "name": "Solid",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Turns enterprise data into AI-ready infrastructure",
-      "total_raised": "$20M",
-      "total_m": 20,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Team8",
-        "SignalFire"
+        "Madrona",
+        "FUSE"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Calcalist, Feb 2026"
+      "source": "Yutori Scouts, July 2026"
     }
   ],
   "deltas": {
-    "since": "2026-07-26T14:59:27.846775+00:00",
-    "companies": 5,
-    "unicorns": 1,
+    "since": "2026-07-27T17:26:28.626751+00:00",
+    "companies": 0,
+    "unicorns": -1,
     "new_names": [
-      "Tandem Health",
-      "Limitless Labs",
-      "Peregrine Technologies",
-      "Quantifind",
-      "Taktile",
-      "Definity"
+      "Almanac Health",
+      "7AI",
+      "Prelude",
+      "Beacon Security",
+      "WisdomAI",
+      "Thira"
     ]
   }
 }
