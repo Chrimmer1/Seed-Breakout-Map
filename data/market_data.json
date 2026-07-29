@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:59:50.556499+00:00",
+  "generated_at": "2026-07-29T16:19:10.104861+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automates denials, revenue cycle",
-      "total_raised": "$21M",
-      "total_m": 21,
+      "what": "AI biller automating healthcare revenue cycle",
+      "total_raised": "$21.6M",
+      "total_m": 21.6,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -86,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform automates home health workflows",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -102,43 +102,26 @@
       "source": "PR Newswire, May 2026"
     },
     {
-      "name": "Almanac Health",
+      "name": "Arintra",
       "group": "Healthcare & Life Sciences AI",
-      "what": "Evidence-based AI clinical decision support platform",
-      "total_raised": "$10M",
-      "total_m": 10,
+      "what": "GenAI autonomous medical coding platform",
+      "total_raised": "$21M+",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "F-Prime Capital",
-        "General Catalyst",
-        "Lightspeed Venture Partners"
+        "Peak XV Partners (Surge)",
+        "Y Combinator"
       ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
-    },
-    {
-      "name": "7AI",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Autonomous AI security operations & incident response",
-      "total_raised": "$166M",
-      "total_m": 166,
-      "valuation": "$700M",
-      "unicorn": false,
-      "seed_backers": [
-        "Lior Div (founder)"
-      ],
-      "seed_year": 2025,
+      "seed_year": 2024,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SoftwareStrategiesBlog, Apr 2026"
+      "source": "ACCESS Newswire, Aug 2025"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents defend against weaponized AI cyberattacks",
+      "what": "AI agents that block autonomous AI cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
@@ -146,69 +129,51 @@
       "seed_backers": [
         "Cyberstarts",
         "Lightspeed",
-        "Cerca Partners"
+        "Assaf Rappaport"
       ],
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "CTech/Calcalist, Jun 2026"
+      "source": "TheSaaSNews, June 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and security platform for enterprises",
+      "what": "AI governance & visibility platform for enterprises",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund"
+        "CrowdStrike Falcon Fund",
+        "George Kurtz"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, Mar 2026"
+      "source": "SecurityWeek, March 2026"
     },
     {
-      "name": "Prelude",
+      "name": "Onyx Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI trust and identity/fraud verification platform",
-      "total_raised": "$27M",
-      "total_m": 27,
+      "what": "Security & control platform for enterprise AI agents",
+      "total_raised": "$40M",
+      "total_m": 40,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Singular",
-        "Seedcamp"
+        "Cyberstarts"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "EU-Startups, May 2026"
-    },
-    {
-      "name": "Beacon Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Agentic AI platform for detection & response",
-      "total_raised": "$13M",
-      "total_m": 13,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Notable Capital",
-        "Holly Ventures",
-        "AlphaDrive Ventures"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Pulse2, 2026"
+      "source": "Calcalist, March 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data breach & leak protection",
+      "what": "Predictive AI data-security & insider-threat platform",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -220,45 +185,30 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek, Sep 2025"
+      "source": "StartupIntros, 2026"
     },
     {
-      "name": "Limitless Labs",
-      "group": "Industrial & Operations AI",
-      "what": "AI agent automates CNC/CAD-CAM manufacturing programming",
-      "total_raised": "$27.3M",
-      "total_m": 27.3,
+      "name": "General Analysis",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Security infrastructure & red-teaming for agentic AI",
+      "total_raised": "$10M",
+      "total_m": 10,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures"
+        "Altos Ventures",
+        "645 Ventures",
+        "Menlo Ventures"
       ],
-      "seed_year": 2025,
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, PR Newswire 2026"
-    },
-    {
-      "name": "Rebar",
-      "group": "Industrial & Operations AI",
-      "what": "AI quoting engine for HVAC/plumbing suppliers",
-      "total_raised": "$14M",
-      "total_m": 14,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Founder Collective",
-        "Zero Infinity Partners"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Crunchbase News, VentureBurn 2026"
+      "source": "BusinessWire, April 2026"
     },
     {
       "name": "WisdomAI",
       "group": "Data & Enterprise Intelligence AI",
-      "what": "AI analytics platform avoiding LLM hallucination",
+      "what": "AI analytics platform stopping LLM data hallucinations",
       "total_raised": "$73M",
       "total_m": 73,
       "valuation": "n/a",
@@ -269,37 +219,17 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "BitcoinWorld/MEXC 2026"
-    },
-    {
-      "name": "Thira",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "enterprise AI decision/data intelligence platform",
-      "total_raised": "$21M",
-      "total_m": 21,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Madrona",
-        "FUSE"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Yutori Scouts, July 2026"
+      "source": "MEXC/BitcoinWorld 2026"
     }
   ],
   "deltas": {
-    "since": "2026-07-27T17:26:28.626751+00:00",
-    "companies": 0,
-    "unicorns": -1,
+    "since": "2026-07-28T16:59:50.556499+00:00",
+    "companies": -4,
+    "unicorns": 0,
     "new_names": [
-      "Almanac Health",
-      "7AI",
-      "Prelude",
-      "Beacon Security",
-      "WisdomAI",
-      "Thira"
+      "Arintra",
+      "Onyx Security",
+      "General Analysis"
     ]
   }
 }
