@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:25:06.630560+00:00",
+  "generated_at": "2026-07-31T17:05:38.978960+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -66,11 +66,27 @@
       "glasswing": true
     },
     {
+      "name": "Assort Health",
+      "group": "Healthcare & Life Sciences AI",
+      "what": "Voice AI for patient scheduling/access",
+      "total_raised": "$222M",
+      "total_m": 222,
+      "valuation": "$1.2B",
+      "unicorn": true,
+      "seed_backers": [
+        "Quiet Capital"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Forbes, 2026"
+    },
+    {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for claims denial recovery",
-      "total_raised": "$21.6M",
-      "total_m": 21.6,
+      "what": "AI biller for claims denial/RCM",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -81,12 +97,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "FierceHealthcare, Apr 2026"
+      "source": "Fierce Healthcare, 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health ops",
+      "what": "AI platform for home health/post-acute care",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,80 +115,47 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, May 2026"
+      "source": "PR Newswire, 2026"
     },
     {
-      "name": "Ascertain",
+      "name": "Topos Bio",
       "group": "Healthcare & Life Sciences AI",
-      "what": "Agentic AI for case management workflows",
-      "total_raised": "$17.4M",
-      "total_m": 17.4,
+      "what": "AI-native drug discovery for undruggable proteins",
+      "total_raised": "$10.5M",
+      "total_m": 10.5,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Aegis Ventures",
-        "Northwell Health"
+        "Boldstart",
+        "Threshold",
+        "Neo"
       ],
-      "seed_year": 2023,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "PR Newswire, Apr 2025"
-    },
-    {
-      "name": "Assured Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "Agentic AI for provider credentialing/onboarding",
-      "total_raised": "$25M",
-      "total_m": 25,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "First Round Capital",
-        "Kindred Ventures"
-      ],
-      "seed_year": 2025,
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MobiHealthNews, Jul 2026"
-    },
-    {
-      "name": "Bunkerhill Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "AI agents for hospital clinical workflows",
-      "total_raised": "$55M",
-      "total_m": 55,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Sequoia Capital"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fortune, Jul 2026"
+      "source": "Cure funding tracker, 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Autonomous AI offensive security & remediation",
+      "what": "Defends orgs against AI-powered cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Lightspeed Venture Partners",
-        "Cerca Partners"
+        "Lightspeed"
       ],
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, June 2026"
+      "source": "TheSaaSNews, June 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance, monitoring & control platform",
+      "what": "AI governance and threat visibility platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -187,9 +170,43 @@
       "source": "SecurityWeek, March 2026"
     },
     {
+      "name": "Way Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI-driven identity and access management platform",
+      "total_raised": "$20M",
+      "total_m": 20,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Insight Partners",
+        "Glilot Capital"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Axios Pro, July 2026"
+    },
+    {
+      "name": "Beacon Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI-native data layer for threat detection",
+      "total_raised": "$13M",
+      "total_m": 13,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Notable Capital",
+        "Holly Ventures"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech, July 2026"
+    },
+    {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI-driven data security platform",
+      "what": "Predictive AI data breach protection platform",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -201,35 +218,52 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "CTech/Calcalistech, Sept 2025"
+      "source": "SecurityWeek, Sept 2025"
+    },
+    {
+      "name": "Cylake",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI-native identity and threat security platform",
+      "total_raised": "$45M",
+      "total_m": 45,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Nir Zuk (angel)"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "ABAB News, 2026"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI for CNC machining programming",
+      "what": "Physical AI for CNC manufacturing",
       "total_raised": "$27.3M",
       "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures"
+        "Grove Ventures",
+        "Meron Capital",
+        "Kinetica"
       ],
-      "seed_year": 2025,
+      "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE/PR Newswire, June 2026"
+      "source": "citybiz + AIwire, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI quoting engine for HVAC/electrical/plumbing",
+      "what": "AI quoting platform for HVAC contractors",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Founder Collective",
-        "Villain Capital",
         "Zero Infinity Partners"
       ],
       "seed_year": 2024,
@@ -239,15 +273,15 @@
     }
   ],
   "deltas": {
-    "since": "2026-07-29T16:19:10.104861+00:00",
-    "companies": 1,
-    "unicorns": 0,
+    "since": "2026-07-30T16:25:06.630560+00:00",
+    "companies": 2,
+    "unicorns": 1,
     "new_names": [
-      "Ascertain",
-      "Assured Health",
-      "Bunkerhill Health",
-      "Limitless Labs",
-      "Rebar"
+      "Assort Health",
+      "Topos Bio",
+      "Way Security",
+      "Beacon Security",
+      "Cylake"
     ]
   }
 }
