@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:53:22.424226+00:00",
+  "generated_at": "2026-08-02T14:57:25.101111+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for claims denial management",
-      "total_raised": "$21M",
-      "total_m": 21,
+      "what": "AI biller automates claims denial recovery",
+      "total_raised": "$20.2M",
+      "total_m": 20.2,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, 2026"
+      "source": "PRNewswire/FierceHealthcare 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health documentation",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,132 +99,141 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MobiHealthNews, 2026"
+      "source": "PRNewswire/HomeHealthCareNews 2026"
     },
     {
-      "name": "Assort Health",
+      "name": "Tandem Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI voice agents for patient scheduling",
-      "total_raised": "$222M",
-      "total_m": 222,
-      "valuation": "$1.2B",
-      "unicorn": true,
+      "what": "AI copilot writes clinical documentation notes",
+      "total_raised": "$59.5M",
+      "total_m": 59.5,
+      "valuation": "n/a",
+      "unicorn": false,
       "seed_backers": [
-        "First Round Capital",
-        "Quiet Capital",
-        "Chemistry VC"
+        "Northzone",
+        "OpenAI angels",
+        "DeepMind angels"
       ],
       "seed_year": 2024,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Forbes, 2026"
+      "source": "Sifted 2025"
+    },
+    {
+      "name": "Arintra",
+      "group": "Healthcare & Life Sciences AI",
+      "what": "GenAI autonomous medical coding platform",
+      "total_raised": "$21M+",
+      "total_m": 21,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Peak XV Surge",
+        "Y Combinator"
+      ],
+      "seed_year": 2023,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "AccessNewswire/BusinessStandard 2025"
+    },
+    {
+      "name": "Cylake",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI-native on-prem threat detection platform",
+      "total_raised": "$45M",
+      "total_m": 45,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Greylock Partners"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "SecurityWeek, TechCrunch 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that fight AI cyberattacks",
+      "what": "AI agents defend against autonomous cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Cyberstarts"
+        "Cyberstarts",
+        "Lightspeed",
+        "Assaf Rappaport"
       ],
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "TheSaaSNews, June 2026"
+      "source": "Calcalistech, SaaS News 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Visibility & governance for enterprise AI",
+      "what": "AI governance and threat visibility platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund"
+        "CrowdStrike Falcon Fund",
+        "George Kurtz"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, March 2026"
+      "source": "SecurityWeek, GovInfoSecurity 2026"
+    },
+    {
+      "name": "Beacon Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Context layer for AI-driven threat detection",
+      "total_raised": "$13M",
+      "total_m": 13,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Notable Capital",
+        "Holly Ventures",
+        "AlphaDrive Ventures"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech, TechStartups 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI-driven data protection platform",
+      "what": "Predictive data breach and insider-threat detection",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Venture Guides",
-        "Ibex Investors"
+        "Ibex Investors",
+        "iAngels"
       ],
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek, Sept 2025"
-    },
-    {
-      "name": "Limitless Labs",
-      "group": "Industrial & Operations AI",
-      "what": "AI agent for CNC manufacturing",
-      "total_raised": "$27.3M",
-      "total_m": 27.3,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Grove Ventures"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
-    },
-    {
-      "name": "Tacta Systems",
-      "group": "Industrial & Operations AI",
-      "what": "Tactile robotic hand for factories",
-      "total_raised": "$75M",
-      "total_m": 75,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Matter Venture Partners"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "PR Newswire, June 2025"
-    },
-    {
-      "name": "Rebar",
-      "group": "Industrial & Operations AI",
-      "what": "AI estimating for HVAC contractors",
-      "total_raised": "$14M",
-      "total_m": 14,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Founder Collective",
-        "Zero Infinity Partners"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Crunchbase News, March 2026"
+      "source": "Calcalistech, FinSMEs 2025"
     }
   ],
   "deltas": {
-    "since": "2026-07-31T17:05:38.978960+00:00",
-    "companies": -3,
-    "unicorns": 0,
+    "since": "2026-08-01T14:53:22.424226+00:00",
+    "companies": 0,
+    "unicorns": -1,
     "new_names": [
-      "Tacta Systems"
+      "Tandem Health",
+      "Arintra",
+      "Cylake",
+      "Beacon Security"
     ]
   }
 }
