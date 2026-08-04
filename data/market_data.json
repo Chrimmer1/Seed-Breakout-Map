@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:36:29.879602+00:00",
+  "generated_at": "2026-08-04T17:22:02.130362+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,7 +68,7 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for RCM denial management",
+      "what": "AI biller automating insurance claim denials",
       "total_raised": "$21M",
       "total_m": 21,
       "valuation": "n/a",
@@ -86,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health workflows",
+      "what": "AI platform automating home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,29 +99,46 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire/Home Health Care News, May 2026"
+      "source": "PR Newswire, May 2026"
+    },
+    {
+      "name": "Outtake",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Agentic AI stops identity fraud, impersonation",
+      "total_raised": "$60M",
+      "total_m": 60,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "CRV",
+        "S32"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "TechCrunch 2026; SecurityWeek 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents defending against AI-driven cyberattacks",
+      "what": "Autonomous agents find weaponized-AI attack paths",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Cyberstarts",
-        "Lightspeed"
+        "Lightspeed Venture Partners",
+        "Cyberstarts"
       ],
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SaaS News, 2026"
+      "source": "Pulse2 2026; Yahoo Finance 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance & visibility platform for enterprises",
+      "what": "AI governance and threat oversight platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -133,46 +150,12 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, 2026"
-    },
-    {
-      "name": "Beacon Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Trusted data/context layer for AI security agents",
-      "total_raised": "$13M",
-      "total_m": 13,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Notable Capital",
-        "Holly Ventures",
-        "AlphaDrive Ventures"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "TechStartups, 2026"
-    },
-    {
-      "name": "Ocean Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents stopping phishing and email attacks",
-      "total_raised": "$28M",
-      "total_m": 28,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Picture Capital"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Calcalist, 2026"
+      "source": "SecurityWeek 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI enterprise data security platform",
+      "what": "Predictive AI data breach protection",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -184,87 +167,50 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek, 2025"
+      "source": "SecurityWeek 2025; BusinessWire 2025"
     },
     {
-      "name": "Trent AI",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agent code vulnerability detection platform",
-      "total_raised": "$13M",
-      "total_m": 13,
+      "name": "Limitless Labs",
+      "group": "Industrial & Operations AI",
+      "what": "AI agent automates CNC manufacturing programming",
+      "total_raised": "$27.3M",
+      "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "LocalGlobe",
-        "Cambridge Innovation Capital"
+        "Grove Ventures"
       ],
-      "seed_year": 2026,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SC Media, 2026"
+      "source": "SiliconANGLE, June 2026"
     },
     {
-      "name": "Taktile",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI decision automation for banks & insurers",
-      "total_raised": "$184M",
-      "total_m": 184,
+      "name": "Rebar",
+      "group": "Industrial & Operations AI",
+      "what": "AI platform for HVAC/construction estimating",
+      "total_raised": "$14M",
+      "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Index Ventures",
-        "Y Combinator"
-      ],
-      "seed_year": 2021,
-      "breakout_year": 2022,
-      "glasswing": false,
-      "source": "PYMNTS/FinSMEs 2025-2026"
-    },
-    {
-      "name": "Rogo",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI research analyst for finance/banking",
-      "total_raised": "$310M",
-      "total_m": 310,
-      "valuation": "$2B",
-      "unicorn": true,
-      "seed_backers": [
-        "AlleyCorp",
-        "Positive Sum Ventures"
+        "Founder Collective",
+        "Zero Infinity Partners"
       ],
       "seed_year": 2024,
-      "breakout_year": 2024,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "PRNewswire/Sacra 2026"
-    },
-    {
-      "name": "Sixfold",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI underwriting decision-support for insurers",
-      "total_raised": "$51.5M",
-      "total_m": 51,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Bessemer Venture Partners",
-        "Crystal Venture Partners"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2024,
-      "glasswing": false,
-      "source": "The Insurer/FinSMEs 2024-2026"
+      "source": "Crunchbase News, March 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-02T14:57:25.101111+00:00",
-    "companies": 2,
-    "unicorns": 1,
+    "since": "2026-08-03T17:36:29.879602+00:00",
+    "companies": -3,
+    "unicorns": -1,
     "new_names": [
-      "Ocean Security",
-      "Trent AI",
-      "Taktile",
-      "Rogo",
-      "Sixfold"
+      "Outtake",
+      "Limitless Labs",
+      "Rebar"
     ]
   }
 }
