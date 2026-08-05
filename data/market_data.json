@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:22:02.130362+00:00",
+  "generated_at": "2026-08-05T17:02:13.082703+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,7 +68,7 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating insurance claim denials",
+      "what": "AI biller for revenue-cycle denial management",
       "total_raised": "$21M",
       "total_m": 21,
       "valuation": "n/a",
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
+      "source": "Fierce Healthcare, 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform automating home health operations",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,53 +99,38 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, May 2026"
+      "source": "PR Newswire, 2026"
     },
     {
-      "name": "Outtake",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Agentic AI stops identity fraud, impersonation",
-      "total_raised": "$60M",
-      "total_m": 60,
+      "name": "Perceptic",
+      "group": "Healthcare & Life Sciences AI",
+      "what": "AI platform for drug discovery and trial design",
+      "total_raised": "$12M",
+      "total_m": 12,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "CRV",
-        "S32"
+        "Accel",
+        "Air Street Capital",
+        "Elder Gull"
       ],
-      "seed_year": 2025,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "TechCrunch 2026; SecurityWeek 2026"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Autonomous agents find weaponized-AI attack paths",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Lightspeed Venture Partners",
-        "Cyberstarts"
-      ],
-      "seed_year": 2025,
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Pulse2 2026; Yahoo Finance 2026"
+      "source": "Fortune, 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and threat oversight platform",
+      "what": "AI governance & visibility platform for enterprises",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund"
+        "CrowdStrike Falcon Fund",
+        "George Kurtz"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
@@ -153,28 +138,65 @@
       "source": "SecurityWeek 2026"
     },
     {
-      "name": "Ray Security",
+      "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data breach protection",
-      "total_raised": "$11M",
-      "total_m": 11,
+      "what": "AI agents defend against AI-powered cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Venture Guides",
-        "Ibex Investors"
+        "Cyberstarts",
+        "Lightspeed",
+        "Assaf Rappaport"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "TheSaaSNews/Calcalist 2026"
+    },
+    {
+      "name": "imper.ai",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Real-time deepfake & cyber impersonation prevention",
+      "total_raised": "$28M",
+      "total_m": 28,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "YL Ventures",
+        "Mayfield Fund",
+        "Hetz Ventures"
       ],
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek 2025; BusinessWire 2025"
+      "source": "Wellows 2026"
+    },
+    {
+      "name": "Tangos AI",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI agents automate financial-crime investigations",
+      "total_raised": "$20M",
+      "total_m": 20,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "SignalFire",
+        "Leaders VC",
+        "Clarim"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech/Calcalist 2026"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agent automates CNC manufacturing programming",
+      "what": "Agentic physical AI for CNC manufacturing",
       "total_raised": "$27.3M",
-      "total_m": 27.3,
+      "total_m": 27,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -183,19 +205,19 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
+      "source": "SiliconANGLE, Ctech 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI platform for HVAC/construction estimating",
+      "what": "AI quoting platform for HVAC contractors",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Founder Collective",
-        "Zero Infinity Partners"
+        "Optimist Ventures"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
@@ -204,13 +226,13 @@
     }
   ],
   "deltas": {
-    "since": "2026-08-03T17:36:29.879602+00:00",
-    "companies": -3,
-    "unicorns": -1,
+    "since": "2026-08-04T17:22:02.130362+00:00",
+    "companies": 1,
+    "unicorns": 0,
     "new_names": [
-      "Outtake",
-      "Limitless Labs",
-      "Rebar"
+      "Perceptic",
+      "imper.ai",
+      "Tangos AI"
     ]
   }
 }
