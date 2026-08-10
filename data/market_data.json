@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:35:59.910529+00:00",
+  "generated_at": "2026-08-10T11:55:17.675149+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,7 +68,7 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating claims denials, RCM",
+      "what": "AI biller for denial management, RCM",
       "total_raised": "$21M",
       "total_m": 21,
       "valuation": "n/a",
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
+      "source": "MedCity News, April 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health/post-acute care",
+      "what": "AI platform for home health workflow",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,32 +99,15 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, May 2026"
+      "source": "Home Health Care News, May 2026"
     },
     {
-      "name": "Develop Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "GenAI prior authorization, medication access",
-      "total_raised": "$17.6M",
-      "total_m": 17.6,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Afore Capital",
-        "South Park Commons"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "MedCity News, Aug 2025"
-    },
-    {
-      "name": "Onyx Security",
+      "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Secures & governs enterprise AI agents",
-      "total_raised": "$153M",
-      "total_m": 153,
-      "valuation": "$640M",
+      "what": "AI agents that block autonomous cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
+      "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts"
@@ -132,30 +115,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Calcalist, 2026"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Defends orgs from AI-powered cyberattacks",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts",
-        "Lightspeed",
-        "Assaf Rappaport"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "TheSaaSNews/Calcalist, 2026"
+      "source": "TheSaaSNews, June 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance & threat visibility platform",
+      "what": "AI governance and visibility for enterprise AI",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -167,29 +132,12 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, 2026"
-    },
-    {
-      "name": "Beacon Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Data layer for agentic threat detection",
-      "total_raised": "$13M",
-      "total_m": 13,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Notable Capital",
-        "Holly Ventures"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "CTech, 2026"
+      "source": "SecurityWeek, March 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data protection platform",
+      "what": "predictive AI data security and threat prevention",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -201,54 +149,36 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Calcalist/FinSMEs, 2025"
-    },
-    {
-      "name": "V12",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents auto-discover software vulnerabilities",
-      "total_raised": "$10M",
-      "total_m": 10,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Electric Capital"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "CryptoRank, 2026"
+      "source": "SecurityWeek, September 2025"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "Physical AI for CNC machining programming",
+      "what": "Agentic Physical AI for CNC manufacturing",
       "total_raised": "$27.3M",
       "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures",
-        "Meron Capital",
-        "Dell Technologies Capital"
+        "Grove Ventures"
       ],
-      "seed_year": 2024,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "AIwire/Yahoo Finance, June 2026"
+      "source": "SiliconANGLE, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI quoting/estimating OS for HVAC suppliers",
-      "total_raised": "$14M+",
+      "what": "AI operating system for HVAC contractors",
+      "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
+        "Prudence",
         "Founder Collective",
-        "Zero Infinity Partners",
-        "Villain Capital"
+        "Zero Infinity Partners"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
@@ -258,85 +188,45 @@
     {
       "name": "Foundational Industries",
       "group": "Industrial & Operations AI",
-      "what": "AI-native factories for physical-AI hardware",
+      "what": "AI-run factories building physical products",
       "total_raised": "$25M",
       "total_m": 25,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "BoxGroup",
-        "Zigg Capital"
+        "Zigg Ventures"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "The AI Insider, Aug 2026"
+      "source": "Fortune, July 2026"
     },
     {
-      "name": "Credible Data",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Semantic business-context engine for enterprise AI",
-      "total_raised": "$10M",
-      "total_m": 10,
+      "name": "UnitAI",
+      "group": "Industrial & Operations AI",
+      "what": "Physical AI for warehouse automation",
+      "total_raised": "$12M",
+      "total_m": 12,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Gradient",
-        "SignalFire",
-        "K5 Global"
+        "Prologis Ventures",
+        "Dynamo Ventures",
+        "Ground Up Ventures"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Pulse2 / FinSMEs 2026"
-    },
-    {
-      "name": "Tribal",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Metadata fabric powering context-aware enterprise AI agents",
-      "total_raised": "$10M",
-      "total_m": 10,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Team8",
-        "DYDX Capital"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "SiliconANGLE 2026"
-    },
-    {
-      "name": "Archestra.AI",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Connects enterprise data securely to AI agents",
-      "total_raised": "$13.5M",
-      "total_m": 13.5,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "20VC",
-        "Visible Ventures",
-        "Tenacity Capital"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fundraise Insider 2026"
+      "source": "Fortune, July 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-08T12:06:54.069926+00:00",
-    "companies": -1,
-    "unicorns": -2,
+    "since": "2026-08-09T11:35:59.910529+00:00",
+    "companies": -6,
+    "unicorns": 0,
     "new_names": [
-      "Develop Health",
-      "Onyx Security",
-      "A Security",
-      "JetStream Security",
-      "Beacon Security",
-      "Ray Security"
+      "UnitAI"
     ]
   }
 }
