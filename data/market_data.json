@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:55:17.675149+00:00",
+  "generated_at": "2026-08-11T11:51:21.817445+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,7 +68,7 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for denial management, RCM",
+      "what": "AI biller automates healthcare claims denials",
       "total_raised": "$21M",
       "total_m": 21,
       "valuation": "n/a",
@@ -81,12 +81,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MedCity News, April 2026"
+      "source": "Fierce Healthcare, Apr 2026"
     },
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health workflow",
+      "what": "AI platform automates home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,28 +99,12 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Home Health Care News, May 2026"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that block autonomous cyberattacks",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "TheSaaSNews, June 2026"
+      "source": "PR Newswire, May 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and visibility for enterprise AI",
+      "what": "AI governance and threat visibility platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -132,12 +116,65 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, March 2026"
+      "source": "SecurityWeek 2026"
+    },
+    {
+      "name": "Orchid Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "LLM-based identity security unification platform",
+      "total_raised": "$36M",
+      "total_m": 36,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "YL Ventures",
+        "Mayfield Fund",
+        "Hetz Ventures"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Wellows 2026"
+    },
+    {
+      "name": "A Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI agents defending against autonomous cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Cyberstarts",
+        "Lightspeed"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech 2026"
+    },
+    {
+      "name": "imper.ai",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Real-time deepfake and impersonation prevention",
+      "total_raised": "$28M",
+      "total_m": 28,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "YL Ventures",
+        "Mayfield Fund",
+        "Hetz Ventures"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Wellows 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "predictive AI data security and threat prevention",
+      "what": "Predictive AI data protection platform",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -149,12 +186,12 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek, September 2025"
+      "source": "Calcalistech 2025"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "Agentic Physical AI for CNC manufacturing",
+      "what": "AI agents automate CNC machining/manufacturing",
       "total_raised": "$27.3M",
       "total_m": 27.3,
       "valuation": "n/a",
@@ -165,68 +202,87 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
+      "source": "SiliconANGLE, Jun 2026"
+    },
+    {
+      "name": "Roadrunner",
+      "group": "Industrial & Operations AI",
+      "what": "AI-driven logistics/waste-hauling operations platform",
+      "total_raised": "$27M",
+      "total_m": 27,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Kleiner Perkins"
+      ],
+      "seed_year": 2023,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fortune, May 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI operating system for HVAC contractors",
+      "what": "AI operating system for HVAC/construction estimating",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Prudence",
         "Founder Collective",
-        "Zero Infinity Partners"
+        "Villain Capital"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News, March 2026"
+      "source": "Crunchbase News, Mar 2026"
     },
     {
       "name": "Foundational Industries",
       "group": "Industrial & Operations AI",
-      "what": "AI-run factories building physical products",
+      "what": "AI-native factories for physical manufacturing",
       "total_raised": "$25M",
       "total_m": 25,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "BoxGroup",
-        "Zigg Ventures"
+        "Zigg Capital",
+        "Abstract"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fortune, July 2026"
+      "source": "The AI Insider, Aug 2026"
     },
     {
-      "name": "UnitAI",
+      "name": "Intropy",
       "group": "Industrial & Operations AI",
-      "what": "Physical AI for warehouse automation",
-      "total_raised": "$12M",
-      "total_m": 12,
+      "what": "AI system automating spare-parts supply chains",
+      "total_raised": "$11M",
+      "total_m": 11,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Prologis Ventures",
-        "Dynamo Ventures",
-        "Ground Up Ventures"
+        "Felix Capital",
+        "Quiet Capital",
+        "General Catalyst"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fortune, July 2026"
+      "source": "Under30CEO, Aug 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-09T11:35:59.910529+00:00",
-    "companies": -6,
+    "since": "2026-08-10T11:55:17.675149+00:00",
+    "companies": 3,
     "unicorns": 0,
     "new_names": [
-      "UnitAI"
+      "Orchid Security",
+      "imper.ai",
+      "Roadrunner",
+      "Intropy"
     ]
   }
 }
