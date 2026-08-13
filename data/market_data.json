@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:55:02.904639+00:00",
+  "generated_at": "2026-08-13T11:55:31.177115+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -66,9 +66,27 @@
       "glasswing": true
     },
     {
+      "name": "Amperos Health",
+      "group": "Healthcare & Life Sciences AI",
+      "what": "AI biller automating claims denials",
+      "total_raised": "$21M",
+      "total_m": 21,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Uncork Capital",
+        "Neo",
+        "Nebular"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fierce Healthcare, 2026"
+    },
+    {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home-health clinical/back-office ops",
+      "what": "AI platform for home health documentation",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -81,30 +99,12 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MobiHealthNews/PRNewswire, May 2026"
-    },
-    {
-      "name": "Amperos Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating denials for RCM teams",
-      "total_raised": "$21.6M",
-      "total_m": 21.6,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Uncork Capital",
-        "Neo",
-        "Nebular"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fierce Healthcare, Apr 2026"
+      "source": "PR Newswire, 2026"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents defend against AI-powered cyberattacks",
+      "what": "AI agents defend against AI cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
@@ -115,12 +115,12 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Calcalist/TheSaaSNews 2026"
+      "source": "TheSaaSNews 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and security platform for enterprise AI",
+      "what": "AI governance and agentic risk platform",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -135,9 +135,26 @@
       "source": "SecurityWeek 2026"
     },
     {
+      "name": "Beacon Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Agentic data layer for threat detection",
+      "total_raised": "$13M",
+      "total_m": 13,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Notable Capital",
+        "Holly Ventures"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Calcalist 2026"
+    },
+    {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI enterprise data security platform",
+      "what": "Predictive AI data breach prevention",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -152,50 +169,34 @@
       "source": "SecurityWeek 2025"
     },
     {
-      "name": "Beacon Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Agentic AI data layer for cyber defense",
-      "total_raised": "$13M",
-      "total_m": 13,
+      "name": "Foundational Industries",
+      "group": "Industrial & Operations AI",
+      "what": "AI-native factories for physical production",
+      "total_raised": "$25M",
+      "total_m": 25,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Notable Capital",
-        "Holly Ventures"
+        "BoxGroup",
+        "Zigg Capital"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Pulse2 2026"
-    },
-    {
-      "name": "Limitless Labs",
-      "group": "Industrial & Operations AI",
-      "what": "Agentic AI for CNC precision manufacturing",
-      "total_raised": "$27.3M",
-      "total_m": 27.3,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Grove Ventures"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "SiliconANGLE, Jun 2026"
+      "source": "AI Insider, Aug 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI operating system for HVAC contractors",
+      "what": "AI operating system for HVAC/construction quoting",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
+        "Prudence",
         "Founder Collective",
-        "Villain Capital",
-        "Optimist Ventures"
+        "Zero Infinity Partners"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
@@ -203,30 +204,26 @@
       "source": "Crunchbase News, Mar 2026"
     },
     {
-      "name": "Foundational Industries",
+      "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI-run factories for hardware manufacturing",
-      "total_raised": "$25M",
-      "total_m": 25,
+      "what": "AI agent for CNC manufacturing programming",
+      "total_raised": "$20M+",
+      "total_m": 20,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "BoxGroup",
-        "Zigg Ventures",
-        "Abstract Ventures"
+        "not publicly disclosed"
       ],
-      "seed_year": 2026,
+      "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fortune, Jul 2026"
+      "source": "Calcalist, Jun 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-11T11:51:21.817445+00:00",
-    "companies": -3,
+    "since": "2026-08-12T11:55:02.904639+00:00",
+    "companies": 0,
     "unicorns": 0,
-    "new_names": [
-      "Beacon Security"
-    ]
+    "new_names": []
   }
 }
