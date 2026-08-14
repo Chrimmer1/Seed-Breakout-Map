@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:55:31.177115+00:00",
+  "generated_at": "2026-08-14T11:50:28.634810+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -86,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health documentation",
+      "what": "AI platform for home health workflow",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -102,9 +102,26 @@
       "source": "PR Newswire, 2026"
     },
     {
+      "name": "Coral",
+      "group": "Healthcare & Life Sciences AI",
+      "what": "AI automation for prior authorization admin",
+      "total_raised": "$12.5M",
+      "total_m": 12.5,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Lightspeed Venture Partners",
+        "Z47"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "GlobeNewswire, 2026"
+    },
+    {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents defend against AI cyberattacks",
+      "what": "AI agents blocking autonomous cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
@@ -115,46 +132,45 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "TheSaaSNews 2026"
+      "source": "CTech/TheSaaSNews, June 2026"
     },
     {
-      "name": "JetStream Security",
+      "name": "Onyx Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and agentic risk platform",
-      "total_raised": "$34M",
-      "total_m": 34,
+      "what": "Governs and secures enterprise AI agents",
+      "total_raised": "$153M",
+      "total_m": 153,
+      "valuation": "$640M",
+      "unicorn": false,
+      "seed_backers": [
+        "Cyberstarts"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Calcalistech, March-Aug 2026"
+    },
+    {
+      "name": "Geordie AI",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Independent monitoring of AI agent activity",
+      "total_raised": "$36.5M",
+      "total_m": 36,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Redpoint Ventures",
-        "CrowdStrike Falcon Fund"
+        "General Catalyst",
+        "Ten Eleven Ventures"
       ],
-      "seed_year": 2026,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek 2026"
-    },
-    {
-      "name": "Beacon Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Agentic data layer for threat detection",
-      "total_raised": "$13M",
-      "total_m": 13,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Notable Capital",
-        "Holly Ventures"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Calcalist 2026"
+      "source": "Fortune, May 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data breach prevention",
+      "what": "Predictive AI-driven enterprise data protection",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -166,64 +182,125 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek 2025"
+      "source": "SecurityWeek/VentureBeat, Sept 2025"
+    },
+    {
+      "name": "Beacon Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "Data layer powering agentic threat detection",
+      "total_raised": "$13M",
+      "total_m": 13,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Notable Capital",
+        "Holly Ventures"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech, July 2026"
+    },
+    {
+      "name": "Way Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI-powered identity and access management",
+      "total_raised": "$20M",
+      "total_m": 20,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Insight Partners",
+        "Glilot Capital"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech, July 2026"
+    },
+    {
+      "name": "Sereact",
+      "group": "Industrial & Operations AI",
+      "what": "AI brain for warehouse/factory robots",
+      "total_raised": "$150M",
+      "total_m": 150,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Point Nine",
+        "Air Street Capital",
+        "Creandum"
+      ],
+      "seed_year": 2023,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "Tech.eu 2026; Silicon Republic 2025"
+    },
+    {
+      "name": "Limitless Labs",
+      "group": "Industrial & Operations AI",
+      "what": "Physical AI copilot for CNC manufacturing",
+      "total_raised": "$27.3M",
+      "total_m": 27.3,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Dell Technologies Capital",
+        "Square Peg",
+        "Grove Ventures"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "AIwire, June 2026"
+    },
+    {
+      "name": "Rebar",
+      "group": "Industrial & Operations AI",
+      "what": "AI quoting platform for HVAC suppliers",
+      "total_raised": "$14M+",
+      "total_m": 14,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Founder Collective",
+        "Prudence",
+        "Zero Infinity Partners"
+      ],
+      "seed_year": 2024,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Crunchbase News, March 2026"
     },
     {
       "name": "Foundational Industries",
       "group": "Industrial & Operations AI",
-      "what": "AI-native factories for physical production",
+      "what": "AI-native factories for data-center gear",
       "total_raised": "$25M",
       "total_m": 25,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "BoxGroup",
-        "Zigg Capital"
+        "Zigg Capital",
+        "Abstract"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
       "source": "AI Insider, Aug 2026"
-    },
-    {
-      "name": "Rebar",
-      "group": "Industrial & Operations AI",
-      "what": "AI operating system for HVAC/construction quoting",
-      "total_raised": "$14M",
-      "total_m": 14,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Prudence",
-        "Founder Collective",
-        "Zero Infinity Partners"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Crunchbase News, Mar 2026"
-    },
-    {
-      "name": "Limitless Labs",
-      "group": "Industrial & Operations AI",
-      "what": "AI agent for CNC manufacturing programming",
-      "total_raised": "$20M+",
-      "total_m": 20,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "not publicly disclosed"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Calcalist, Jun 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-12T11:55:02.904639+00:00",
-    "companies": 0,
+    "since": "2026-08-13T11:55:31.177115+00:00",
+    "companies": 4,
     "unicorns": 0,
-    "new_names": []
+    "new_names": [
+      "Coral",
+      "Onyx Security",
+      "Geordie AI",
+      "Way Security",
+      "Sereact"
+    ]
   }
 }
