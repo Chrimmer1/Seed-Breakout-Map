@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:27:34.859397+00:00",
+  "generated_at": "2026-08-16T11:27:24.215296+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller for claims denials, RCM",
-      "total_raised": "$21M",
-      "total_m": 21,
+      "what": "AI biller automating insurance denials",
+      "total_raised": "$20.2M",
+      "total_m": 20.2,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -86,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health, post-acute care",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,12 +99,45 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PRNewswire/HomeHealthCareNews, May 2026"
+      "source": "PR Newswire, May 2026"
+    },
+    {
+      "name": "A Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI agents defend against AI-powered cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Cyberstarts",
+        "Lightspeed"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "The SaaS News, June 2026"
+    },
+    {
+      "name": "Cylake",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "On-prem AI-native threat detection platform",
+      "total_raised": "$45M",
+      "total_m": 45,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Greylock Partners"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "CTech/Ynet, March 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance & enterprise AI threat visibility",
+      "what": "Runtime governance & security for AI agents",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
@@ -116,45 +149,12 @@
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, Mar 2026"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that detect & block AI cyberattacks",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "TheSaaSNews, Jun 2026"
-    },
-    {
-      "name": "Act Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Identity & access attack-surface reduction for AI agents",
-      "total_raised": "$60M",
-      "total_m": 60,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Team8",
-        "Bessemer Venture Partners"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "TheSaaSNews, Jul 2026"
+      "source": "SecurityWeek, March 2026"
     },
     {
       "name": "Ray Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive data-access threat & breach prevention platform",
+      "what": "Predictive AI data-usage security platform",
       "total_raised": "$11M",
       "total_m": 11,
       "valuation": "n/a",
@@ -166,88 +166,49 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Calcalistech, Sep 2025"
+      "source": "SecurityWeek, Sept 2025"
     },
     {
-      "name": "Tutor Intelligence",
+      "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI-powered warehouse robot worker fleets",
-      "total_raised": "$42M",
-      "total_m": 42,
+      "what": "AI agents for CNC/CAD-CAM manufacturing",
+      "total_raised": "$27.3M",
+      "total_m": 27,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Neo"
+        "Grove Ventures"
       ],
-      "seed_year": 2021,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "SiliconANGLE, Dec 2025"
-    },
-    {
-      "name": "Squint",
-      "group": "Industrial & Operations AI",
-      "what": "AI+AR manufacturing frontline intelligence platform",
-      "total_raised": "$59M",
-      "total_m": 59,
-      "valuation": "$265M",
-      "unicorn": false,
-      "seed_backers": [
-        "Sequoia Capital",
-        "Menlo Ventures"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "SiliconANGLE, Aug 2025"
-    },
-    {
-      "name": "Chef Robotics",
-      "group": "Industrial & Operations AI",
-      "what": "AI robots automate variable food production",
-      "total_raised": "$65.6M",
-      "total_m": 66,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Construct Capital",
-        "Kleiner Perkins",
-        "Y Combinator"
-      ],
-      "seed_year": 2021,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "PR Newswire, Mar 2025"
-    },
-    {
-      "name": "Machina Labs",
-      "group": "Industrial & Operations AI",
-      "what": "AI-robotic on-demand metal forming factories",
-      "total_raised": "$171M",
-      "total_m": 171,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Innovation Endeavors",
-        "Congruent Ventures"
-      ],
-      "seed_year": 2021,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "LA Business Journal, Feb 2026"
+      "source": "SiliconANGLE + Pulse2, June 2026"
+    },
+    {
+      "name": "Arrakis",
+      "group": "Industrial & Operations AI",
+      "what": "AI operating system for factories, supply chains",
+      "total_raised": "$38M",
+      "total_m": 38,
+      "valuation": "$140M",
+      "unicorn": false,
+      "seed_backers": [
+        "Accel"
+      ],
+      "seed_year": 2026,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "TheNextWeb / Fortune, 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-14T11:50:28.634810+00:00",
-    "companies": -3,
+    "since": "2026-08-15T11:27:34.859397+00:00",
+    "companies": -2,
     "unicorns": 0,
     "new_names": [
-      "JetStream Security",
-      "Act Security",
-      "Tutor Intelligence",
-      "Squint",
-      "Chef Robotics",
-      "Machina Labs"
+      "Cylake",
+      "Limitless Labs",
+      "Arrakis"
     ]
   }
 }
