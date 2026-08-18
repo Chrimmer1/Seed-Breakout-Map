@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:33:18.342717+00:00",
+  "generated_at": "2026-08-18T11:33:34.322577+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -66,27 +66,9 @@
       "glasswing": true
     },
     {
-      "name": "Amperos Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating healthcare claims denials",
-      "total_raised": "$20.2M",
-      "total_m": 20.2,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Uncork Capital",
-        "Neo",
-        "Nebular"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fierce Healthcare, AlleyWatch 2026"
-    },
-    {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health operations",
+      "what": "AI platform for home health workflow",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -99,56 +81,71 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "PR Newswire, McKnights 2026"
+      "source": "MobiHealthNews, May 2026"
     },
     {
-      "name": "Develop Health",
+      "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI prior authorization and benefits verification",
-      "total_raised": "$17.6M",
-      "total_m": 17.6,
+      "what": "AI-native denial management and revenue recovery",
+      "total_raised": "$21M",
+      "total_m": 21,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Afore Capital",
-        "South Park Commons",
-        "J Ventures"
+        "Uncork Capital",
+        "Neo",
+        "Nebular"
       ],
-      "seed_year": 2023,
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "FierceHealthcare, Apr 2026"
+    },
+    {
+      "name": "AegisAI",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI agents stopping email phishing attacks",
+      "total_raised": "$49M",
+      "total_m": 49,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Accel",
+        "Foundation Capital"
+      ],
+      "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "MedCity News, Axios 2025"
+      "source": "TechCrunch 2026; Yahoo Finance 2025"
     },
     {
       "name": "A Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that block AI-powered cyberattacks",
+      "what": "AI agents defending against autonomous cyberattacks",
       "total_raised": "$37M",
       "total_m": 37,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Cyberstarts",
-        "Lightspeed",
-        "Assaf Rappaport"
+        "Lightspeed"
       ],
-      "seed_year": 2025,
+      "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "TheSaaSNews/ynetnews 2026"
+      "source": "Calcalist 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and visibility platform for enterprises",
+      "what": "AI governance and visibility for enterprise AI",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund",
-        "George Kurtz"
+        "CrowdStrike Falcon Fund"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
@@ -156,99 +153,48 @@
       "source": "SecurityWeek 2026"
     },
     {
-      "name": "Ray Security",
+      "name": "Cylake",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive data security and threat detection platform",
-      "total_raised": "$11M",
-      "total_m": 11,
-      "valuation": "n/a",
+      "what": "AI-native on-prem threat detection platform",
+      "total_raised": "$45M",
+      "total_m": 45,
+      "valuation": "$178.5M est",
       "unicorn": false,
       "seed_backers": [
-        "Venture Guides",
-        "Ibex Investors"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "FinSMEs/Calcalist Sept 2025"
-    },
-    {
-      "name": "Empirical Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive models for exposure and threat management",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Costanoa Ventures",
-        "Hyde Park Angels"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "AI Insider Jul 2026"
-    },
-    {
-      "name": "Act Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI-driven device risk detection and reduction platform",
-      "total_raised": "$60M",
-      "total_m": 60,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Team8",
-        "Bessemer Venture Partners"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "Calcalist Dec 2025"
-    },
-    {
-      "name": "Runlayer",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Runtime security for AI agent and MCP threats",
-      "total_raised": "$11M",
-      "total_m": 11,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Khosla Ventures",
-        "Felicis"
+        "Greylock Partners"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SoftwareStrategiesBlog Apr 2026"
+      "source": "SecurityWeek 2026; SiliconANGLE 2026"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agents automate CNC manufacturing programming",
+      "what": "AI foundation model for CNC manufacturing",
       "total_raised": "$27.3M",
-      "total_m": 27.3,
+      "total_m": 27,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures"
+        "Grove Ventures",
+        "Meron Capital",
+        "Kinetica"
       ],
-      "seed_year": 2025,
+      "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
+      "source": "AIwire, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI automates HVAC quoting for contractors",
+      "what": "AI quoting platform for HVAC suppliers",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Prudence",
         "Founder Collective",
         "Zero Infinity Partners"
       ],
@@ -258,119 +204,67 @@
       "source": "Crunchbase News, March 2026"
     },
     {
-      "name": "Peregrine Technologies",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Data platform for public safety agencies",
-      "total_raised": "$260M",
-      "total_m": 260,
-      "valuation": "$2.5B",
-      "unicorn": true,
+      "name": "Arrakis",
+      "group": "Industrial & Operations AI",
+      "what": "agentic AI operating system for industrial firms",
+      "total_raised": "$38M",
+      "total_m": 38,
+      "valuation": "$140M",
+      "unicorn": false,
       "seed_backers": [
-        "8VC",
-        "Founders Fund"
+        "Accel"
       ],
-      "seed_year": 2018,
+      "seed_year": 2025,
+      "breakout_year": 2026,
+      "glasswing": false,
+      "source": "Fortune, July 2026"
+    },
+    {
+      "name": "Kargo.ai",
+      "group": "Industrial & Operations AI",
+      "what": "AI inventory platform for warehouses and logistics",
+      "total_raised": "$42M+",
+      "total_m": 42,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Matter Venture Partners",
+        "Sozo Ventures"
+      ],
+      "seed_year": 2020,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "Forbes 2025"
+      "source": "Businesswire, Dec 2025"
     },
     {
-      "name": "Taktile",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Decision intelligence platform for fintech underwriting",
-      "total_raised": "$85M",
-      "total_m": 85,
+      "name": "Foundational Industries",
+      "group": "Industrial & Operations AI",
+      "what": "AI-operated autonomous manufacturing factories",
+      "total_raised": "$25M",
+      "total_m": 25,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Index Ventures",
-        "Y Combinator"
+        "BoxGroup",
+        "Zigg Ventures",
+        "Abstract Ventures"
       ],
-      "seed_year": 2021,
-      "breakout_year": 2025,
+      "seed_year": 2026,
+      "breakout_year": 2026,
       "glasswing": false,
-      "source": "TechCrunch 2025"
-    },
-    {
-      "name": "Anomalo",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI-powered data quality monitoring platform",
-      "total_raised": "$72M",
-      "total_m": 72,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Foundation Capital",
-        "Norwest Venture Partners"
-      ],
-      "seed_year": 2021,
-      "breakout_year": 2024,
-      "glasswing": false,
-      "source": "SiliconANGLE 2024"
-    },
-    {
-      "name": "Vectara",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Retrieval-augmented enterprise search & AI agents",
-      "total_raised": "$73.5M",
-      "total_m": 74,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Race Capital",
-        "Samsung NEXT"
-      ],
-      "seed_year": 2022,
-      "breakout_year": 2024,
-      "glasswing": false,
-      "source": "TechCrunch 2023"
-    },
-    {
-      "name": "Quantifind",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI decision intelligence for financial crime",
-      "total_raised": "$61M",
-      "total_m": 61,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Correlation Ventures",
-        "George Kaiser Family Foundation"
-      ],
-      "seed_year": 2013,
-      "breakout_year": 2022,
-      "glasswing": false,
-      "source": "Crunchbase 2022"
-    },
-    {
-      "name": "Kumo AI",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "Predictive analytics AI on enterprise relational data",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Sequoia Capital",
-        "SV Angel"
-      ],
-      "seed_year": 2022,
-      "breakout_year": 2022,
-      "glasswing": false,
-      "source": "Business Wire 2022"
+      "source": "FinSMEs, Aug 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-16T11:27:24.215296+00:00",
-    "companies": 9,
-    "unicorns": 1,
+    "since": "2026-08-17T11:33:18.342717+00:00",
+    "companies": -6,
+    "unicorns": -1,
     "new_names": [
-      "Develop Health",
-      "Empirical Security",
-      "Act Security",
-      "Runlayer",
-      "Rebar",
-      "Peregrine Technologies"
+      "AegisAI",
+      "Cylake",
+      "Arrakis",
+      "Kargo.ai",
+      "Foundational Industries"
     ]
   }
 }
