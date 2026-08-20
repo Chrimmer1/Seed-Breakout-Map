@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:32:25.185516+00:00",
+  "generated_at": "2026-08-20T11:35:03.302707+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -68,9 +68,9 @@
     {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI biller automating insurance claims/denials",
-      "total_raised": "$20.2M",
-      "total_m": 20,
+      "what": "AI biller for insurance denial recovery",
+      "total_raised": "$21.6M",
+      "total_m": 21.6,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
@@ -81,7 +81,7 @@
       "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Fierce Healthcare, 2026"
+      "source": "Fierce Healthcare, AlleyWatch 2026"
     },
     {
       "name": "Enzo Health",
@@ -99,57 +99,42 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MobiHealthNews, 2026"
-    },
-    {
-      "name": "Tandem Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "AI medical scribe and clinician co-pilot",
-      "total_raised": "$59.5M",
-      "total_m": 60,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "OpenAI",
-        "Kinnevik"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "EU-Startups, 2025"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "AI agents that hunt and fix exploit paths",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Jerusalem Post, June 2026"
+      "source": "PR Newswire, Home Health Care News 2026"
     },
     {
       "name": "JetStream Security",
       "group": "Cybersecurity & Fraud Defense",
-      "what": "AI governance and runtime security platform",
+      "what": "AI governance & visibility for enterprise AI",
       "total_raised": "$34M",
       "total_m": 34,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Redpoint Ventures",
-        "CrowdStrike Falcon Fund"
+        "CrowdStrike Falcon Fund",
+        "George Kurtz"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SecurityWeek, March 2026"
+      "source": "SecurityWeek, Mar 2026"
+    },
+    {
+      "name": "A Security",
+      "group": "Cybersecurity & Fraud Defense",
+      "what": "AI agents detect and block AI cyberattacks",
+      "total_raised": "$37M",
+      "total_m": 37,
+      "valuation": "n/a",
+      "unicorn": false,
+      "seed_backers": [
+        "Cyberstarts",
+        "Lightspeed"
+      ],
+      "seed_year": 2025,
+      "breakout_year": 2025,
+      "glasswing": false,
+      "source": "TheSaaSNews, Jun 2026"
     },
     {
       "name": "Ray Security",
@@ -166,87 +151,69 @@
       "seed_year": 2025,
       "breakout_year": 2025,
       "glasswing": false,
-      "source": "SecurityWeek, September 2025"
+      "source": "SecurityWeek, Sep 2025"
     },
     {
       "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI agent automates CNC programming for manufacturers",
-      "total_raised": "$27.3M",
-      "total_m": 27.3,
+      "what": "Physical AI foundation model for CNC manufacturing",
+      "total_raised": "$20M",
+      "total_m": 20,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Grove Ventures"
+        "Dell Technologies Capital",
+        "Grove Ventures",
+        "Meron Capital"
       ],
-      "seed_year": 2025,
+      "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "SiliconANGLE, June 2026"
+      "source": "AIwire/PRNewswire, Jun 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI platform automates HVAC contractor quoting",
+      "what": "AI operating system for HVAC contractors",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
+        "Prudence",
         "Founder Collective",
-        "Villain Capital",
-        "Optimist Ventures"
+        "Zero Infinity Partners"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News, March 2026"
+      "source": "Businesswire/Ventureburn, Mar 2026"
     },
     {
-      "name": "Julius AI",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "AI data analyst for natural-language analytics",
-      "total_raised": "$10M",
-      "total_m": 10,
+      "name": "Intropy",
+      "group": "Industrial & Operations AI",
+      "what": "AI system for manufacturer spare-parts inventory",
+      "total_raised": "$11M",
+      "total_m": 11,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Bessemer Venture Partners",
-        "Y Combinator",
-        "8VC"
-      ],
-      "seed_year": 2022,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "TechCrunch, 2025"
-    },
-    {
-      "name": "Thira",
-      "group": "Data & Enterprise Intelligence AI",
-      "what": "enterprise AI data intelligence platform",
-      "total_raised": "$21M",
-      "total_m": 21,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Madrona",
-        "FUSE"
+        "Felix Capital",
+        "Quiet Capital",
+        "General Catalyst"
       ],
       "seed_year": 2026,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Yutori Scouts funding report, 2026"
+      "source": "Under30CEO, Aug 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-18T11:33:34.322577+00:00",
-    "companies": -1,
+    "since": "2026-08-19T11:32:25.185516+00:00",
+    "companies": -2,
     "unicorns": 0,
     "new_names": [
-      "Tandem Health",
-      "Ray Security",
-      "Julius AI",
-      "Thira"
+      "Intropy"
     ]
   }
 }
