@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:28:28.293726+00:00",
+  "generated_at": "2026-08-23T11:29:51.836842+00:00",
   "companies": [
     {
       "name": "Asepha",
@@ -66,26 +66,9 @@
       "glasswing": true
     },
     {
-      "name": "Assort Health",
-      "group": "Healthcare & Life Sciences AI",
-      "what": "Agentic AI patient access & scheduling platform",
-      "total_raised": "$222M",
-      "total_m": 222,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Four Acres",
-        "Tau Ventures"
-      ],
-      "seed_year": 2023,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "Fortune, WSGR 2025"
-    },
-    {
       "name": "Amperos Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI-native denial management & revenue recovery",
+      "what": "AI biller for healthcare revenue cycle",
       "total_raised": "$20.2M",
       "total_m": 20.2,
       "valuation": "n/a",
@@ -103,7 +86,7 @@
     {
       "name": "Enzo Health",
       "group": "Healthcare & Life Sciences AI",
-      "what": "AI platform for home health documentation & compliance",
+      "what": "AI platform for home health operations",
       "total_raised": "$26M",
       "total_m": 26,
       "valuation": "n/a",
@@ -116,177 +99,49 @@
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "MobiHealthNews, PR Newswire 2026"
+      "source": "PR Newswire, Home Health Care News 2026"
     },
     {
-      "name": "Onyx Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Governs and secures autonomous AI agents",
-      "total_raised": "$153M",
-      "total_m": 153,
-      "valuation": "$640M",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts"
-      ],
-      "seed_year": 2024,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Calcalist/SiliconANGLE 2026"
-    },
-    {
-      "name": "A Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Defends orgs against AI-driven cyberattacks",
-      "total_raised": "$37M",
-      "total_m": 37,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Cyberstarts",
-        "Lightspeed"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "CTech/TheSaaSNews June 2026"
-    },
-    {
-      "name": "Mate Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Agentic threat detection and incident response",
-      "total_raised": "$50M",
-      "total_m": 50,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Canaan Partners",
-        "Team8",
-        "Insight Partners"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "Calcalist 2026"
-    },
-    {
-      "name": "Geordie AI",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Independent monitoring of AI agent activity",
-      "total_raised": "$36.5M",
-      "total_m": 36.5,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "General Catalyst",
-        "Ten Eleven Ventures",
-        "Crosspoint Capital"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fortune May 2026"
-    },
-    {
-      "name": "Ray Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Predictive AI data breach protection",
-      "total_raised": "$11M",
-      "total_m": 11,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "Venture Guides",
-        "Ibex Investors"
-      ],
-      "seed_year": 2025,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "SecurityWeek Sept 2025"
-    },
-    {
-      "name": "Spectrum Security",
-      "group": "Cybersecurity & Fraud Defense",
-      "what": "Automated real-time threat detection engineering",
-      "total_raised": "$19M",
-      "total_m": 19,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "TechOperators",
-        "WhiteRabbit Ventures",
-        "Skinos Ventures"
-      ],
-      "seed_year": 2026,
-      "breakout_year": 2026,
-      "glasswing": false,
-      "source": "Fintech.global April 2026"
-    },
-    {
-      "name": "Sereact",
+      "name": "Limitless Labs",
       "group": "Industrial & Operations AI",
-      "what": "AI brain for warehouse/factory robots",
-      "total_raised": "$140M+",
-      "total_m": 140,
+      "what": "Agentic AI for CNC/CAD-CAM manufacturing",
+      "total_raised": "$27.3M",
+      "total_m": 27.3,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
-        "Air Street Capital",
-        "Creandum",
-        "Point Nine"
+        "Grove Ventures"
       ],
-      "seed_year": 2023,
-      "breakout_year": 2025,
-      "glasswing": false,
-      "source": "SiliconANGLE/TheNextWeb, Apr-May 2026"
-    },
-    {
-      "name": "Foundational Industries",
-      "group": "Industrial & Operations AI",
-      "what": "AI-run factories for data-center hardware",
-      "total_raised": "$25M",
-      "total_m": 25,
-      "valuation": "n/a",
-      "unicorn": false,
-      "seed_backers": [
-        "BoxGroup",
-        "Zigg Capital",
-        "Abstract"
-      ],
-      "seed_year": 2026,
+      "seed_year": 2025,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "The AI Insider, Aug 2026"
+      "source": "SiliconANGLE, June 2026"
     },
     {
       "name": "Rebar",
       "group": "Industrial & Operations AI",
-      "what": "AI operating system for HVAC contractors",
+      "what": "AI estimating platform for HVAC/construction",
       "total_raised": "$14M",
       "total_m": 14,
       "valuation": "n/a",
       "unicorn": false,
       "seed_backers": [
         "Founder Collective",
-        "Optimist Ventures"
+        "Prudence",
+        "Zero Infinity Partners"
       ],
       "seed_year": 2024,
       "breakout_year": 2026,
       "glasswing": false,
-      "source": "Crunchbase News, Mar 2026"
+      "source": "Crunchbase News, March 2026"
     }
   ],
   "deltas": {
-    "since": "2026-08-21T11:33:28.265905+00:00",
-    "companies": -1,
+    "since": "2026-08-22T11:28:28.293726+00:00",
+    "companies": -8,
     "unicorns": 0,
     "new_names": [
-      "Assort Health",
-      "Onyx Security",
-      "Mate Security",
-      "Geordie AI",
-      "Spectrum Security",
-      "Sereact"
+      "Limitless Labs"
     ]
   }
 }
